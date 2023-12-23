@@ -17,8 +17,8 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/lane-keep-assist.git
-cd lane-keep-assist
+git clone https://github.com/shadyadii/LKAS.git
+cd LKAS
 Install Dependencies:
 
 Copy code
